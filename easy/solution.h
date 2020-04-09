@@ -6,8 +6,9 @@
 #define LEETCODEWORKBOOK_SOLUTION_H
 
 
-class solution {
-
+class Solution {
+public:
+    int reverse(int x);
 };
 
 
